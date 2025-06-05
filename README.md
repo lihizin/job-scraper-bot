@@ -1,7 +1,7 @@
 # 🧠 Job Scraper Bot
 This project is a Python-based web scraper that collects job postings from multiple tech company career pages in Israel.  
 It stores job data in a SQLite database and sends daily email alerts with newly found listings.
-🧡 I created this bot to help my boyfriend, Uriel, find junior tech jobs more easily — automating the daily grind of browsing career pages.  
+🧡 I created this bot to help my boyfriend, Uriel, find junior tech jobs more easily - automating the daily grind of browsing career pages.  
 👨‍💻 Uriel is now actively contributing to the project by adding functionality for job application submission directly from the platform.
 
 ## 🚀 Features
