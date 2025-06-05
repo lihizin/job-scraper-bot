@@ -1,0 +1,13 @@
+
+venv/
+.venv/
+.idea/
+
+jobs.db
+jobs.db-journal
+Google Chrome for Testing.app/
+
+.env
+.DS_Store
+__pycache__/
+*.pyc
