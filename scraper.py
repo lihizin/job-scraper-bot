@@ -11,8 +11,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # === CONFIG ===
-chromedriver_path = "./chromedriver"
-chrome_binary_path = "./Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
+chromedriver_path = "./chromedriver.exe"
+chrome_binary_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 sender_email = "jobboardlihi@gmail.com"
 recipient_emails = ["lihi.zin@outlook.com", "uriel867@gmail.com"]
 

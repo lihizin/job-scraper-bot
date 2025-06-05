@@ -4,8 +4,8 @@ from selenium.webdriver.chrome.options import Options
 import time
 
 # ✅ Correct paths (update if needed)
-chromedriver_path = "./chromedriver"
-chrome_binary_path = "./Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing"
+chromedriver_path = "./chromedriver.exe"
+chrome_binary_path = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 
 # ✅ Set Chrome options
 options = Options()
