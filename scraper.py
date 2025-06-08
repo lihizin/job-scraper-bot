@@ -17,9 +17,17 @@ sender_email = "jobboardlihi@gmail.com"
 recipient_emails = ["lihi.zin@outlook.com", "uriel867@gmail.com"]
 
 # Keywords
-KEYWORDS = ["junior", "entry level", "frontend", "fullstack", "intern", "backend", "software developer", "QA", "qa",
-            "QA engineer", "software engineer"]
-LOCATION_KEYWORDS = ["israel", "tel aviv", "herzliya", "jerusalem"]
+KEYWORDS = [ "junior", "entry level", "intern", "student", "graduate", "software engineer", "software developer",
+    "backend developer", "frontend developer", "fullstack developer", "qa engineer", "qa automation",
+    "data analyst", "devops","data","r&d intern", "security analyst", "platform engineer", "dotnet developer",
+    "python developer", "c++ developer", "algorithm engineer", "prompt engineer", "data scientist"]
+
+LOCATION_KEYWORDS = [
+    "israel", "tel aviv", "herzliya", "jerusalem", "haifa", "beer sheva", "petah tikva",
+    "ramat gan", "givatayim", "netanya", "hod hasharon", "raanana", "rehovot", "holon",
+    "bat yam", "bnei brak", "yokneam", "ashdod", "ashkelon", "kfar saba", "modiin"
+]
+
 EXCLUDE_KEYWORDS = ["senior", "staff", "lead", "manager", "architect", "Senior"]
 
 # === SETUP DRIVER ===
