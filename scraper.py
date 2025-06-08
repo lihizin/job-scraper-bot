@@ -44,7 +44,7 @@ for website_id, name, url in websites:
     print(f"🔍 Checking: {name} - {url}")
     try:
         driver.get(url)
-        time.sleep(5)
+        time.sleep(10)
         soup = BeautifulSoup(driver.page_source, "html.parser")
         job_elements = soup.find_all("a")
         print(f"Found {len(job_elements)} possible jobs")
